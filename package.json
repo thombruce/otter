@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "author": "Thom Bruce <thom@thombruce.com>",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^6.1.0"
+  }
+}
